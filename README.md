@@ -21,9 +21,9 @@ This project is a simple React application that [briefly describe your app's pur
 
 ## Features
 
-- Feature 1: [e.g., Interactive UI]
-- Feature 2: [e.g., Dynamic data handling]
-- Feature 3: [e.g., Responsive design]
+- Interactive UI
+- Dynamic data handling
+- e.g., Responsive design
 
 ## Getting Started
 
@@ -81,4 +81,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Shivam - [Your Email Address] - [Your LinkedIn / Twitter / GitHub profile]
+Shivam - [sm2552744@gmail.com]
